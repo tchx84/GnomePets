@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/Pets/js">
+    <file>animatedWidget.js</file>
+    <file>defaultPetWidget.js</file>
+    <file>main.js</file>
+    <file>movingWidgetsContainer.js</file>
+    <file>window.js</file>
+  </gresource>
+</gresources>

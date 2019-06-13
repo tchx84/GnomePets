@@ -1,0 +1,7 @@
+data/org.gnome.Pets.desktop.in
+data/org.gnome.Pets.appdata.xml.in
+data/org.gnome.Pets.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
