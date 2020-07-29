@@ -39,8 +39,8 @@
             "buildsystem": "meson",
             "sources": [
                 {
-                    "type": "git",
-                    "url": "file:///home/tchx84/Projects/Pets"
+                    "type": "dir",
+                    "path": "."
                 }
             ]
         }
