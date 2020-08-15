@@ -1,6 +1,7 @@
 /* exported AnimatedWidget */
 
 const {GObject, Gtk, Gio, GdkPixbuf, GLib} = imports.gi;
+const ByteArray = imports.byteArray;
 
 var AnimatedWidget = GObject.registerClass({
     GTypeName: 'AnimatedWidget',
@@ -23,7 +24,7 @@ var AnimatedWidget = GObject.registerClass({
     loadAnimations(uri) {
         const file = Gio.File.new_for_uri(uri);
         const [, content] = file.load_contents(null);
-        const description = JSON.parse(content.toString());
+        const description = JSON.parse(ByteArray.toString(content));
         const imagesCache = {};
 
         Object.entries(description.animations).forEach(([animation, data]) => {
