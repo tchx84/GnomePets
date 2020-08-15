@@ -41,7 +41,7 @@
                "x":0,
                "y":64,
                "width":64,
-               "height":60
+               "height":64
             }
          ]
       },
@@ -72,14 +72,14 @@
                "x":64,
                "y":62,
                "width":64,
-               "height":62
+               "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":62,
+               "y":64,
                "width":64,
-               "height":62
+               "height":64
             }
          ]
       },
@@ -89,14 +89,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":124,
+               "y":128,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":124,
+               "y":128,
                "width":64,
                "height":64
             }
@@ -108,14 +108,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":124,
+               "y":128,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":124,
+               "y":128,
                "width":64,
                "height":64
             }
@@ -127,14 +127,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":186,
+               "y":192,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":186,
+               "y":192,
                "width":64,
                "height":64
             }
@@ -146,14 +146,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":186,
+               "y":192,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":186,
+               "y":192,
                "width":64,
                "height":64
             }
@@ -165,14 +165,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":248,
+               "y":256,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":248,
+               "y":256,
                "width":64,
                "height":64
             }
@@ -184,14 +184,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":248,
+               "y":256,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":248,
+               "y":256,
                "width":64,
                "height":64
             }
@@ -203,14 +203,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":316,
+               "y":320,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":316,
+               "y":320,
                "width":64,
                "height":64
             }
@@ -222,14 +222,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":316,
+               "y":320,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":316,
+               "y":320,
                "width":64,
                "height":64
             }
@@ -241,14 +241,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":380,
+               "y":384,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":380,
+               "y":384,
                "width":64,
                "height":64
             }
@@ -260,14 +260,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":380,
+               "y":384,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":380,
+               "y":384,
                "width":64,
                "height":64
             }
@@ -279,14 +279,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":0,
-               "y":442,
+               "y":448,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":64,
-               "y":442,
+               "y":448,
                "width":64,
                "height":64
             }
@@ -298,14 +298,14 @@
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":128,
-               "y":442,
+               "y":448,
                "width":64,
                "height":64
             },
             {
                "resource":"/org/gnome/Pets/image.png",
                "x":192,
-               "y":442,
+               "y":448,
                "width":64,
                "height":64
             }
